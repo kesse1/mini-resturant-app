@@ -1,1 +1,1 @@
-# react-projects-5-menu
+# A mini resturant app built with reactJS
